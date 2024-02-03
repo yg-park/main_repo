@@ -1,3 +1,8 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/yg-park/sub_repo.git
+
+[submodule "EOF"]
+	path = EOF
+	url = https://github.com/yg-park/EOF_EdgeOfFilteringSystem.git
+
